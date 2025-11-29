@@ -1,6 +1,8 @@
 # AI-RULE-BASED-LOAN-DECISION-SYSTEM
 Beginner-Friendly • Zero ML • Pure AI Logic
 
+“I built a rule-based AI system using JSON-defined rules to determine loan eligibility. This demonstrates classical AI concepts like expert systems, inference rules, and deterministic decision-making.”
+
 # AI Rule-Based Loan Eligibility System
 
 This project demonstrates a classical **rule-based AI system** that determines loan eligibility using predefined rules, without machine learning.
