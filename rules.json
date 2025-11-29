@@ -1,0 +1,7 @@
+{
+  "age_min": 21,
+  "age_max": 60,
+  "min_income": 40000,
+  "min_credit_score": 650,
+  "employment_required": true
+}
